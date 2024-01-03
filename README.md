@@ -1,7 +1,7 @@
 
 # Overview
 
-There are now two simulators related to this chapter. The first,
+There are two simulators related to this. The first,
 `fork.py`, is a simple tool to show what a process tree looks like
 when processes are created and destroyed. Read more about it
 [here](README-fork.md).
